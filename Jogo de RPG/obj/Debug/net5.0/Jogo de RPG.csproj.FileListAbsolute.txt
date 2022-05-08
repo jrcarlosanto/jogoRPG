@@ -1,0 +1,16 @@
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\bin\Debug\net5.0\Jogo de RPG.exe
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\bin\Debug\net5.0\Jogo de RPG.deps.json
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\bin\Debug\net5.0\Jogo de RPG.runtimeconfig.json
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\bin\Debug\net5.0\Jogo de RPG.runtimeconfig.dev.json
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\bin\Debug\net5.0\Jogo de RPG.dll
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\bin\Debug\net5.0\ref\Jogo de RPG.dll
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\bin\Debug\net5.0\Jogo de RPG.pdb
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\obj\Debug\net5.0\Jogo de RPG.csproj.AssemblyReference.cache
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\obj\Debug\net5.0\Jogo de RPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\obj\Debug\net5.0\Jogo de RPG.AssemblyInfoInputs.cache
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\obj\Debug\net5.0\Jogo de RPG.AssemblyInfo.cs
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\obj\Debug\net5.0\Jogo de RPG.csproj.CoreCompileInputs.cache
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\obj\Debug\net5.0\Jogo de RPG.dll
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\obj\Debug\net5.0\ref\Jogo de RPG.dll
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\obj\Debug\net5.0\Jogo de RPG.pdb
+E:\DigitalInnovation\C#\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\Jogo de RPG\Jogo de RPG\obj\Debug\net5.0\Jogo de RPG.genruntimeconfig.cache
